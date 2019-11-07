@@ -8,3 +8,5 @@ First commit for Jenkins
 
 NEWWW 1..2..3
 
+
+latest
